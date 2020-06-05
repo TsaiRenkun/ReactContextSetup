@@ -1,5 +1,5 @@
-#TEMPLATE FOR MERN STACK
-##using Context
+# TEMPLATE FOR MERN STACK
+## using Context
 
 Application used for testing and setting up
 
@@ -21,7 +21,7 @@ nodemon
 concurrently
 ```
 
-##File Setup for server side
+## File Setup for server side
 create Server.js 
 ```
 const express = require('express');
